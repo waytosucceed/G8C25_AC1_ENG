@@ -1,0 +1,570 @@
+{
+  "heading": "Select a Topic",
+  "topics": [
+    {
+      "heading": "ARTICLES",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "‘The’ is used before Superlative Adjectives.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "image": "",
+          "explanation": "‘The’ is used before superlative adjectives. As superlative adjectives denote the highest degree of a certain quality, they require the definite article ‘the’ to stand out in the sentence."
+        },
+        {
+          "questionNo": 2,
+          "question": "The article ‘the’ is used before ordinal numbers.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "image": "",
+          "explanation": "Did you watch the tenth episode of this web series?"
+        },
+        {
+          "questionNo": 3,
+          "question": "Choose the correct option.\nWatching the Niagara Falls felt like an once-in-a-lifetime experience.",
+          "options": [
+            "No errors",
+            "Article ‘the’ will precede ‘once’",
+            "Article ‘a’ will precede ‘once’",
+            "No article will precede ‘once’"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "Words starting with the letter ‘o’ but producing a W-sound are not preceded by the definite article ‘the’. The W-sound is not a vowel sound rather a consonant sound and thus the article ‘a’ is used in these cases."
+        },
+        {
+          "questionNo": 4,
+          "question": "Choose the correct option.\nDid you eat a breakfast?\nIt was a good dinner.",
+          "options": [
+            "Both 1 and 2 are correct",
+            "1 is correct, 2 is incorrect",
+            "1 is incorrect, 2 is correct",
+            "Both 1 and 2 are incorrect"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "Articles do not precede the names of meals like breakfast, dinner, supper, lunch, brunch, etc. In case of (2) the adjective ‘good’ has preceded the word ‘dinner’, thus the article ‘a’ is rightly used as a certain dinner which was good has been talked about."
+        }
+      ]
+    },
+    {
+      "heading": "PREPOSITIONS AND ITS TYPES",
+      "questions": [
+        {
+          "questionNo": 5,
+          "question": "‘On’ is a preposition of place only.",
+          "options": ["True", "False"],
+          "answer": 1,
+          "image": "",
+          "explanation": "‘On’ can be a preposition of place, time and condition.\nPlace: He is on the tenth floor.\nTime: I will inform you on Monday.\nCondition: They are on vacation."
+        },
+        {
+          "questionNo": 6,
+          "question": "The lady with the long hair told us to wait at the lobby.\nThe underlined part is:",
+          "options": [
+            "Phrasal preposition",
+            "Prepositional Phrase",
+            "Both A and B because they are the same thing with different names",
+            "None of the above"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "Prepositional phrases are groups of words that start with a preposition, followed by its object which is a noun and any modifier. A prepositional phrase functions as a preposition in a sentence. They provide additional information about time, location, direction and other relationships."
+        },
+        {
+          "questionNo": 7,
+          "question": "‘With’ is a preposition of:",
+          "options": [
+            "Accompaniment",
+            "Possession",
+            "Agency or means",
+            "All of the above"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "Preposition of Accompaniment: I went to the airport with my friend.\nPreposition of Possession: The man with the brown bag is the detective.\nPreposition of Agency or means: Cut it with a knife."
+        },
+        {
+          "questionNo": 8,
+          "question": "My dad slept during lunch.\n“Lunch” is the object of:",
+          "options": ["Slept", "My dad", "dad", "during"],
+          "answer": 3,
+          "image": "",
+          "explanation": "During is a preposition of time. Lunch is the object of the preposition “during” as it is used after ‘during’ in the sentence."
+        }
+      ]
+    },
+    {
+      "heading": "COORDINATING AND CORRELATIVE CONJUNCTIONS",
+      "questions": [
+        {
+          "questionNo": 9,
+          "question": "Alternative Coordinating conjunctions work in pairs. The above sentence is:",
+          "options": [
+            "Partly correct",
+            "Fully correct",
+            "Both A and B",
+            "None of the above"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "Alternative Coordinating Conjunctions link two contrasting situations where choice is possible. “Or” and “Nor” are alternative coordinating conjunctions. Example: We can either paint or dance."
+        },
+        {
+          "questionNo": 10,
+          "question": "Mr. Bean’s manager is kind …………………………. Careful. Fill in the blanks with the correct conjunction.",
+          "options": ["But", "Yet", "As well as", "Both A and B"],
+          "answer": 2,
+          "image": "",
+          "explanation": "‘As well as’ is a cumulative coordinating conjunction. Two supportive ideas or objects/words are interlinked by cumulative coordinating conjunctions. They also join one statement to another to provide extra information."
+        },
+        {
+          "questionNo": 11,
+          "question": "Which sentence is correct?",
+          "options": [
+            "He took a packet of biscuits and nuts from the closet.",
+            "He took a packet of biscuits, and nuts from the closet.",
+            "He took a packet of biscuits and, nuts from the closet.",
+            "He took a packet of biscuits and nuts, from the closet."
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "A comma should never be used before a coordinating conjunction when it connects two objects/words."
+        },
+        {
+          "questionNo": 12,
+          "question": "True or False: Commas are needed when correlative conjunctions connect phrases.",
+          "options": ["True", "False"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Example: She not only likes to play cricket but also football. However, a comma will be needed when correlative conjunctions connect two independent clauses. Example: She not only likes to play cricket, but she also likes football."
+        },
+        {
+          "questionNo": 13,
+          "question": "Sara scarcely wrote anything when the bell rang. Identify the conjunction in the sentence.",
+          "options": ["Anything", "When", "Scarcely", "Scarcely-when"],
+          "answer": 3,
+          "image": "",
+          "explanation": "'When' is the conjunction in the sentence, connecting the two clauses: 'Sara scarcely wrote anything' and 'the bell rang.' It indicates the timing of the action."
+        }
+      ]
+    },
+    {
+      "heading": "SUBORDINATING CONJUNCTIONS",
+      "questions": [
+        {
+          "questionNo": 14,
+          "question": "As I had brunch, I will skip lunch.\nIn the above sentence ‘as’ is a:",
+          "options": [
+            "Subordinating conjunction",
+            "Correlative conjunction",
+            "Coordinating conjunction",
+            "Coordinating conjunction of condition"
+          ],
+          "answer": 0,
+          "image": "",
+          "explanation": "‘As’ is a subordinating conjunction that introduces a subordinating clause in a sentence and links it with an independent clause to bring about a cause-and-effect relationship."
+        },
+        {
+          "questionNo": 15,
+          "question": "I visit the Niagara Falls _________ I go to America.",
+          "options": ["once", "whenever", "wherever", "none of the above"],
+          "answer": 1,
+          "image": "",
+          "explanation": "‘Whenever’ is a subordinating conjunction of time and it is the correct fit for the given sentence since it alludes to the time when the speaker goes to America. ‘Whenever’ brings about a temporal relationship between the clause ‘I visit the Niagara Falls’ and ‘I go to America’."
+        },
+        {
+          "questionNo": 16,
+          "question": "Write down his address _________ you forget.",
+          "options": ["If", "Lest", "Since", "Yet"],
+          "answer": 1,
+          "image": "",
+          "explanation": "‘Lest’ is a subordinating conjunction of condition. In the given sentence, the subordinate clause presents the condition based on which one must consider writing the address down."
+        },
+        {
+          "questionNo": 17,
+          "question": "Ilative, Adversative, Alternative, and Cumulative are the four types of subordinating conjunctions.",
+          "options": [
+            "Correct",
+            "Partly Correct",
+            "Completely Incorrect",
+            "None of the above"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The seven types of Subordinating Conjunctions are: Comparison, Condition, Concession, Reason, Manner, Time, and Place."
+        },
+        {
+          "questionNo": 18,
+          "question": "Once can function as an adverb of frequency.",
+          "options": [
+            "The sentence is conceptually wrong",
+            "Once is an adverb of frequency",
+            "Once is a subordinate conjunction of time",
+            "Both B and C"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "‘Once’ functions as an adverb of frequency where it tells the number of times an action took place/the rate at which an action took place. Example: I go to music class once a week. ‘Once’ also functions as a subordinating conjunction of time when it begins a subordinating clause and connects it to an independent clause. Example: Once I get my dream job, I will buy ten percent of Amity properties."
+        }
+      ]
+    },
+    {
+      "heading": "INTERJECTIONS",
+      "questions": [
+        {
+          "questionNo": 19,
+          "question": "Wait! Don’t go there.\n‘Wait’ in the above line is a:",
+          "options": [
+            "Verb",
+            "A Verb acting as a volitive interjection",
+            "Doing interjection",
+            "Causative interjection"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "‘Wait’ is a verb acting as a volitive interjection, used to express a desire or an urgent request."
+        },
+        {
+          "questionNo": 20,
+          "question": "Can ‘primary interjections’ function as cognitive interjections?",
+          "options": ["Yes", "No"],
+          "answer": 0,
+          "image": "",
+          "explanation":""
+        },
+        {
+          "questionNo": 21,
+          "question": "Which list contains two-word interjections?",
+          "options": [
+            "Watch out! Don’t go! My goodness!",
+            "Hey! Ouch! Huh! Good grief!",
+            "No! Never! Yes! Good God!",
+            "All of the above"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "Each option contains one or more two-word interjections."
+        },
+        {
+          "questionNo": 22,
+          "question": "A mild interjection is followed by a comma in a sentence.",
+          "options": ["Not always", "Always"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Mild interjections are followed by a comma in a sentence. Example: Um, could you please explain the concept once more? Strong interjections are followed by exclamation marks."
+        }
+      ]
+    },
+    {
+      "heading": "CONTRACTIONS",
+      "questions": [
+        {
+          "questionNo": 23,
+          "question": "Choose the erroneous sentence:",
+          "options": [
+            "They’ve fought for their rights.",
+            "She’s sitting gracefully.",
+            "I shant eat sweets anymore.",
+            "We’ll sort out the schedule for tomorrow."
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "The contracted form of ‘shall not’ is ‘shan’t’. Option C is incorrect because the apostrophe before the ‘t’ in ‘not’ is not present to indicate the removal of the letter ‘o’ in ‘not’ and the consequent contraction. 'Shan’t' has a meaning. 'Shant' is not even a word."
+        },
+        {
+          "questionNo": 24,
+          "question": "‘He’s’ is the contracted form of which Pronoun-Verb unit:",
+          "options": ["He and is", "He and was", "He and has", "Both A and C"],
+          "answer": 3,
+          "image": "",
+          "explanation": "A: ‘i’ is dropped in ‘is’, as it offers the vowel sound. C: ‘ha’ is dropped in ‘has’ as it offers the vowel sound."
+        },
+        {
+          "questionNo": 25,
+          "question": "In reality, what we mean when we say won't is will not. Like 'don't' and 'can't,' the form with the apostrophe is a contraction. The sixteenth-century variant of the word, wonnot, is responsible for the 'o' in won't.",
+          "options": ["True", "False"],
+          "answer": 0,
+          "image": "",
+          "explanation": "The question is self-explanatory."
+        },
+        {
+          "questionNo": 26,
+          "question": "The contracted form of ‘would have’ is ‘d’ve’. What is correct about the above sentence?",
+          "options": [
+            "The fact in the sentence is incorrect.",
+            "‘Would’ve’ is the contracted form of ‘would have’.",
+            "‘d’ve’ presents double contraction and it can be used in speech and written dialogue but not in any other kind of writing.",
+            "Both B and C"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "The question is self-explanatory."
+        }
+      ]
+    },
+    {
+      "heading": "READING STRATEGIES: THE COP AND THE ANTHEM BY O. HENRY",
+      "questions": [
+        {
+          "questionNo": 27,
+          "passage":"Paragraph 1: He began thinking of what he would like to eat. In his mind he could see the whole dinner. The cost would not be too high. He did not want the restaurant people to feel any real anger. But the dinner would leave him filled and happy for the journey to his winter home.<br><br> Paragraph 2: But as Soapy put his foot inside the restaurant door, the head waiter saw his broken old shoes and the torn clothes that covered his legs. Strong and ready hands turned Soapy around and moved him quietly and quickly outside. ",
+          "question": "Match the the paragraphs with their tone:",
+          "options": [
+            "1- assertive 2- imaginative ",
+            "2-assertive, 1-imaginative ",
+            "Both are assertive ",
+            "Both are imaginative "
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "‘1’ talks about Soapy’s thoughts which are filled with expectations which did not transform to reality.‘2’ informs what actually happened. "
+        },
+        {
+          "questionNo": 28,
+          "passage":"He saw with sick fear how he had fallen. He saw his worthless days, his wrong desires, his dead hopes, the lost power of his mind.And also in a moment his heart answered this change in his soul. He would fight to change his life. He would pull himself up, out of the mud. He would make a man of himself again.There was time. He was young enough. He would find his old purpose in life, and follow it. That sweet music had changed him. Tomorrow he would find work. A man had once offered him a job. He would find that man tomorrow. He would be somebody in the world.",
+          "question": "Read the passage and choose the correct answer. What is the author’s purpose behind the details provided in the excerpt above?",
+          "options": [
+            "To shed light on Soapy’s epiphany",
+            "To create a context for the impending ironical ending",
+            "To reveal Soapy’s self-introspection to the readers",
+            "All of the above"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "The question is self-explanatory."
+        },
+        {
+          "questionNo": 29,
+          "question": " Choose the evidence for the following claim: Across the street was another restaurant. It was not as fine as the one on Broadway.",
+          "options": ["The people who went there were not so rich. ", "Its food was not so good. ", "Into this Soapy took his old shoes and his torn clothes, and no one stopped him", "All of the above "],
+          "answer": 3,
+          "image": "",
+          "explanation":"The question is self-explanatory. "
+        }
+      ]
+    },
+    {
+      "heading": "READING STRATEGIES: ELEMENTS IN FICTION",
+      "questions": [
+        {
+          "questionNo": 30,
+          "question": "The narrative voice in The Cop and the Anthem by O.Henry uses which ‘point of view’?",
+          "options": [
+            "Limited",
+            "Innocent eye/naive",
+            "Omniscient",
+            "Stream of Consciousness"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation":""
+        },
+        {
+          "questionNo": 31,
+          "question": "Which is the third important phase of a story according to Freytag's Pyramid?",
+          "options": ["Conflict", "Falling action", "Denouement", "Climax"],
+          "answer": 3,
+          "image": "",
+          "explanation": "Please take a look at the Freytag’s Pyramid."
+        },
+        {
+          "questionNo": 32,
+          "passage":"There was a sudden and wonderful change in his soul. He saw with sick fear how he had fallen. He saw his worthless days, his wrong desires, his dead hopes, the lost power of his mind. And also, in a moment, his heart answered this change in his soul. He would fight to change his life. He would pull himself up, out of the mud. He would make a man of himself again.There was time. He was young enough. He would find his old purpose in life, and follow it. That sweet music had changed him. Tomorrow he would find work. A man had once offered him a job. He would find that man tomorrow. He would be somebody in the world. He would.",
+          "question": "Read the following passage from the story “The Cop and the Anthem” and answer the question that follows: ",
+          "options": [
+            "Internal",
+            "External",
+            "Neither A nor B",
+            "Both A and B"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation":"Internal: Character and Self: He became a vagrant in New York because of his past wrong decisions. He is not an out-an-out criminal, rather he is a subtle gentleman but could not maintain a likely status quo because of being purposeless in life. This is best revealed after his epiphany takes place."
+        },
+        {
+          "questionNo": 33,
+          "question": "Round characters become diametrically opposite to what they were at the beginning of a story. ",
+          "options": ["True", "False"],
+          "answer": 0,
+          "image": "",
+          "explanation": "That is why the term ‘round’ is used to name them."
+        },
+        {
+          "questionNo": 34,
+          "question": "The ‘deus ex machina’ is a plot machinery",
+          "options": ["True", "False"],
+          "answer": 0,
+          "image": "",
+          "explanation": "‘deus ex machina’ is a latin phrase which refers to  ‘godly machinery’ or ‘godly intervention’ that helps to resolve a problem or entangle a plot. "
+        }
+      ]
+    },
+    {
+      "heading": "THE HOUND OF THE BASKERVILLES - PART 1 ",
+      "questions": [
+        {
+          "questionNo": 35,
+          "question": "Sherlock Holmes is the antagonist of the story? ",
+          "options": ["True", "False"],
+          "answer": 1,
+          "image": "",
+          "explanation": "Sherlock Holmes is the detective who solved the case with his team. He is the protagonist of the story. "
+        },
+        {
+          "questionNo": 36,
+          "question": "What is the point of view of narration and who is the narrator of the story?",
+          "options": [
+            "Holmes, first person",
+            "Lestrade, first person",
+            "Watson, first person",
+            "Anonymous, omniscient"
+          ],
+          "answer": 2,
+          "image": "",
+          "explanation": "One of Sherlock Holmes’s defects—if, indeed, one may call it a defect—was that he was exceedingly loath to communicate his full plans to any other person until the instant of their fulfilment. The result, however, was very trying for those who were acting as his agents and assistants."
+        },
+        {
+          "questionNo": 37,
+          "passage":"There only remained the lamp in the dinning where the two men, the murderous host and the unconscious guest, still chatted over their cigars.",
+          "question": "What is the tone of the passage below:",
+          "options": ["Assertive", "Watchful", "Both A and B", "None of the above"],
+          "answer": 2,
+          "image": "",
+          "explanation": "The question is self explanatory."
+        },
+      
+        {
+          "questionNo": 38,
+          "passage":"Paragraph 1: “There is but one place where he could have fled,” she answered. “There is an old tin mine on an island in the heart of the mire. It was there that he kept his hound and there also he had made preparations so that he might have a refuge. That is where he would fly.”<br><br>Paragraph 2: This paste in the tin is no doubt the luminous mixture with which the creature was daubed. It was suggested, of course, by the story of the family hell-hound, and by the desire to frighten old Sir Charles to death. ",
+          "question": "Compare the tone of the following passages: The tone of which paragraph is more confident?",
+          "options": [
+            "Paragraph 1",
+            "Paragraph 2"
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "The question is self-explanatory."
+        },
+        {
+          "questionNo": 39,
+          "passage":"'I said it in London, Watson, and I say it again now, that never yet have we helped to hunt down a more dangerous man than he who is lying yonde'—he swept his long arm towards the huge mottled expanse of green splotched bog which stretched away until it merged into the russet slopes of the moor.",
+          "question": "Read the passage below and answer the following question: How does the speaker (whose words are quoted) sound?",
+          "options": ["Confident", "Opinionated", "Assertive", "Both A and C "],
+          "answer": 3,
+          "image": "",
+          "explanation": "In his entire career of detective services, Sherlock Holmes never had the experience of encountering a more dangerous man than Stapleton. Since this comment is made based on genuine experiences, it is indeed assertive and confident both."
+        },
+        {
+          "questionNo": 40,
+          "passage":"“Are you armed, Lestrade?”The little detective smiled. “As long as I have my trousers I have a hip-pocket, and as long as I have my hip-pocket I have something in it.” “Good! My friend and I are also ready for emergencies.” “You’re mighty close about this affair, Mr. Holmes. What’s the game now?” “A waiting game.” “My word, it does not seem a very cheerful place,” said the detective with a shiver, glancing round him at the gloomy slopes of the hill and at the huge lake of fog which lay over the Grimpen Mire. “I see the lights of a house ahead of us.”“That is Merripit House and the end of our journey. I must request you to walk on tiptoe and not to talk above a whisper.”We moved cautiously along the track as if we were bound for the house, but Holmes halted us when we were about two hundred yards from it.",
+          "question": " Read the following passage and answer the following question:Based on the passage, what is the rising action of the story? ",
+          "options": ["Holmes and his teams’ observation of Merripit house.", "Holmes instructing the team to approach Merripit House quietly.","Lestrade’s concern about the gloomy surroundings and the fog."],
+          "answer": 0,
+          "image": "",
+          "explanation": "The question is self-explanatory. "
+        },
+        {
+          "questionNo": 41,
+          "question": "Distinguish between a fact and an opinion.",
+          "passage":"1.  Food on charcoal oven is more delicious than food cooked on Microwave oven <br> 2.  Compared to charcoal grills, gas or electric grills may present a lesser danger of contaminating food with carcinogens.",
+          "options": [
+            "I is a fact, II is an opinion ",
+            "II is a fact, I is an opinion ",
+            "Both are facts ",
+            "Both are opinions "
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "'I' is based on subjective observation. 'II' can be proved by objective observation and empirical research."
+        },
+        {
+          "questionNo": 42,
+          "question": "Choose the evidence for the following claim: ‘It is better for you to eat spinach than chocolate.’",
+          "options": [
+            "There are only 7 calories in a cup of spinach and 150 calories in an ounce of dark chocolate.",
+            "Spinach is a vegetable and chocolate is not."
+          ],
+          "answer": 1,
+          "image": "",
+          "explanation": "'I' clearly compares the calorie content in both the items."
+        },
+        {
+          "questionNo": 43,
+          "question": "The feeling or attitude conveyed by a piece of writing is:",
+          "options": ["Theme", "Conflict", "Tone", "Aspect"],
+          "answer": 2,
+          "image": "",
+          "explanation": "The question is self-explanatory."
+        },
+        {
+          "questionNo": 44,
+          "question": "Compare the tone of the following excerpts. Which passage has an <u> apprehensive </u> tone?",
+          "passage":"<u>Excerpt 1:</u>The grandmother didn’t want to go to Florida. She wanted to visit some of her connections in east Tennessee and she was seizing at every chance to change Bailey’s mind. Bailey was the son she lived with, her only boy. He was sitting on the edge of his chair at the table, bent over the orange sports section of the Journal. “Now look here, Bailey,” she said, “see here, read this,” and she stood with one hand on her thin hip and the other rattling the newspaper at his bald head. “Here this fellow that calls himself The Misfit is aloose from the Federal Pen and headed toward Florida and you read here what it says he did to these people. Just read it. I wouldn’t take my children in any direction with a criminal like that aloose in it. I couldn’t answer to my conscience if I did.” <br><br><u>Excerpt 2:</u> Jonathan Iwegbu counted himself extra-ordinarily lucky. 'Happy survival!' meant so much more to him than just a current fashion of greeting old friends in the first hazy days of peace. It went deep into his heart. He had come out of the war with five inestimable blessings--his head, his wife Maria's head and the heads of three out of their four children. As a bonus he also had his old bicycle--a miracle too but naturally not to be compared to the safety of five human heads",
+          "options": ["Both 1 and 2", "Only 1", "Only 2", "None of the above"],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Excerpt 1' has an apprehensive tone. 'Excerpt 2' has a tone of gratitude."
+        },
+        {
+          "questionNo": 45,
+          "question": "Which conflict is heightened in the falling action of the story?",
+          "options": [
+            "Character vs. self",
+            "External",
+            "Character vs. nature",
+            "Both B and C"
+          ],
+          "answer": 3,
+          "image": "",
+          "explanation": "The conflict intensifies as Holmes and his associates navigate the dense and dangerous pathway through the bog."
+        }
+      ]
+    },
+    {
+      "heading": "ANTONYMS AND SYNONYMS",
+      "questions": [
+        {
+          "questionNo": 46,
+          "question": "‘Castle in the air’ is a weak match for ‘dream’.",
+          "options": ["Correct", "Incorrect"],
+          "answer": 0,
+          "image": "",
+          "explanation": "'Castle in the air' is a weak match for 'dream' when 'dream' means illusion or vision."
+        },
+        {
+          "questionNo": 47,
+          "question": "‘Merge’ is the antonym of:",
+          "options": ["Consolidate", "Disperse", "Fuse", "Incorporate"],
+          "answer": 1,
+          "image": "",
+          "explanation": "'Consolidate', 'Fuse', and 'Incorporate' are all synonyms of 'Merge'."
+        },
+        {
+          "questionNo": 48,
+          "question": "The strongest matches of ‘Dupe’ are:",
+          "options": ["Patsy", "Sitting duck", "Bamboozle", "All of the above"],
+          "answer": 3,
+          "image": "",
+          "explanation": "'Dupe' has two meanings: as a person who is fooled and as an action to fool someone. 'Patsy' and 'sitting duck' correspond to the first meaning, while 'bamboozle' corresponds to the second."
+        }
+      ]
+    },
+    {
+      "heading": "Subjective",
+      "questions": [
+        {
+          "questionNo": 49,
+          "question": "What is situational irony? "
+         
+        },
+        {
+          "questionNo": 50,
+          "question": "Can the climax of a story have more than one high point?"
+         
+        }
+      ]
+    }
+  ]
+}
